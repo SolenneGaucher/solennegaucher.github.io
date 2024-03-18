@@ -35,6 +35,10 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 # Teaching 
 **Online Leaning and Aggregation**, 3rd year students, ENSAE, [Link](https://www.ensae.fr/courses/2598-online-learning-and-aggregation) 
 
+## Past teaching 
+
+**Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
+
 # Selected talks and posters
 **Fair classification under demographic parity**, Feb. 2024, Institut für Mathematik, Universität Potsdam.
 
@@ -73,10 +77,6 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 * Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
 
 * Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
-
-# Past teaching 
-
-**Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
 
 **Introduction to Machine Learning**, 2nd year students, ENSAE, 2019-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
 
