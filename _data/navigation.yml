@@ -2,7 +2,10 @@
 main:
   - title: "Papers"
     url: https://solennegaucher.github.io/#papers
-
+    
+  - title: "Teaching"
+    url: https://solennegaucher.github.io/#teaching
+    
   - title: "Talks"
     url: https://solennegaucher.github.io/#talks
   
