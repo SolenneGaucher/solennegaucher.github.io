@@ -83,11 +83,11 @@ author:
   name             : "Solenne Gaucher"
   avatar           : "solenne.jpg"
   bio              : "Post-doc in Statistics and Machine Learning"
-  location         : "Orsay"
+  location         : "Office 3033, CREST, ENSAE"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cxgVVJcAAAAJ&hl=fr&oi=sra"
-  email            : "solenne.gaucher@inria.fr"
+  email            : "solenne.gaucher@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
