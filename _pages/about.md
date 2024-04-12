@@ -14,6 +14,8 @@ redirect_from:
 
 # Papers, preprints, and software
 
+**Supervised Contamination Detection, with Flow Cytometry Application** (2024) S. Gaucher, G. Blanchard, and F.Chazal. [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
+
 **Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy** (2024) M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes, and M. Vono. [Preprint](https://hal.science/hal-04438186/file/Open_Research_Challenges_for_Private_Advertising_Systems_under_Local_Differential_Privacy-14.pdf)
 
 **Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2023) S. Gaucher, N. Schreuder, and E. Chzhen. AISTATS 2023. [Paper](https://proceedings.mlr.press/v206/gaucher23a.html)
