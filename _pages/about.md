@@ -7,12 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
    I am a postdoctoral fellow at CREST, ENSAE, in the group FairPlay, under the supervision of Vianney Perchet. This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
 
    I am mainly interested in sequential learning and sequential decision-making problems, and in fair machine learning. 
 
 # Papers, preprints, and software
+
+**Demographic parity in regression and classification within the unawareness framework** (2024) V. Divol and S. Gaucher. [Preprint](https://arxiv.org/pdf/2409.02471)
+
+**Improved Algorithms for Contextual Dynamic Pricing** (2024) M. Tullii, S. Gaucher, N. Merlis and V. Perchet. [Preprint](https://arxiv.org/pdf/2406.11316)
+
+**Feature-Based Online Bilateral Trade** (2024) S. Gaucher, M. Bernasconi, M. Castiglioni, A. Celli and V. Perchet. [Preprint](https://arxiv.org/pdf/2405.18183)
 
 **Supervised Contamination Detection, with Flow Cytometry Application** (2024) S. Gaucher, G. Blanchard, and F.Chazal. [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
 
@@ -71,17 +76,5 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
 **Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
-
-# Education
-
-* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-2022.
-
-* Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
-
-* Diplôme d'Ingénieur, École Polytechnique, Palaiseau, France, 2014-2018.
-
-* Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
-
-* Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
 
 
