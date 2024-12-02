@@ -13,7 +13,7 @@ redirect_from:
    I am mainly interested in sequential learning and sequential decision-making problems, and in fair machine learning. 
 
 # News
-I am thrilled to announce that I have been named one of the 2024 French Young Talents of the [Fondation L’Oreal-UNESCO For Women in Science]https://www.forwomeninscience.com/()! I am incredibly honored to be sharing this award with 34 brilliant women.
+I am thrilled to announce that I have been named one of the 2024 French Young Talents of the [Fondation L’Oreal-UNESCO For Women in Science](https://www.forwomeninscience.com/)! I am incredibly honored to be sharing this award with 34 brilliant women.
 
 # Papers, preprints, and software
 
