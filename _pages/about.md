@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
    I am a postdoctoral fellow at CREST, ENSAE, in the group FairPlay, under the supervision of Vianney Perchet. This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
 
    I am mainly interested in sequential learning and sequential decision-making problems, and in fair machine learning. 
+
+# News
+I am thrilled to announce that I have been named one of the 2024 French Young Talents of the [Fondation L’Oreal-UNESCO For Women in Science]https://www.forwomeninscience.com/()! I am incredibly honored to be sharing this award with 34 brilliant women.
 
 # Papers, preprints, and software
 
