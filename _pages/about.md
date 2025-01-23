@@ -19,19 +19,19 @@ I am thrilled to announce that I have been named one of the 2024 French Young Ta
 
 **Demographic parity in regression and classification within the unawareness framework** (2024) V. Divol and S. Gaucher. [Preprint](https://arxiv.org/pdf/2409.02471)
 
-**Improved Algorithms for Contextual Dynamic Pricing** (2024) M. Tullii, S. Gaucher, N. Merlis and V. Perchet. [Preprint](https://arxiv.org/pdf/2406.11316)
+**Feature-Based Online Bilateral Trade** S. Gaucher, M. Bernasconi, M. Castiglioni, A. Celli and V. Perchet (2025). ICLR 2025. [Preprint](https://arxiv.org/pdf/2405.18183)
 
-**Feature-Based Online Bilateral Trade** (2024) S. Gaucher, M. Bernasconi, M. Castiglioni, A. Celli and V. Perchet. [Preprint](https://arxiv.org/pdf/2405.18183)
+**Improved Algorithms for Contextual Dynamic Pricing**  M. Tullii, S. Gaucher, N. Merlis and V. Perchet (2024). NeurIPS 2024. [Preprint](https://arxiv.org/pdf/2406.11316)
 
-**Supervised Contamination Detection, with Flow Cytometry Application** (2024) S. Gaucher, G. Blanchard, and F.Chazal. [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
+**Supervised Contamination Detection, with Flow Cytometry Application** S. Gaucher, G. Blanchard, and F.Chazal (2024). [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
 
-**Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy** (2024) M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes, and M. Vono. [Preprint](https://hal.science/hal-04438186/file/Open_Research_Challenges_for_Private_Advertising_Systems_under_Local_Differential_Privacy-14.pdf)
+**Open Research Challenges for Private Advertising Systems under Local Differential Privacy**  M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes, and M. Vono (2024). Wise 2024. [Preprint](https://hal.science/hal-04438186/file/Open_Research_Challenges_for_Private_Advertising_Systems_under_Local_Differential_Privacy-14.pdf)
 
-**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2023) S. Gaucher, N. Schreuder, and E. Chzhen. AISTATS 2023. [Paper](https://proceedings.mlr.press/v206/gaucher23a.html)
+**Fair learning with Wasserstein barycenters for non-decomposable performance measures** S. Gaucher, N. Schreuder, and E. Chzhen (2023). AISTATS 2023. [Paper](https://proceedings.mlr.press/v206/gaucher23a.html)
 
-**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, and C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
+**The price of unfairness in linear bandits with biased feedback**, S. Gaucher, A. Carpentier, and C. Giraud (2022). NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
 
-**Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, and Y. Goude.To appear in International Journal of Forecasting. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
+**Hierarchical transfer learning with applications for electricity load forecasting**, A. Antoniadis, S. Gaucher, and Y. Goude (2021). International Journal of Forecasting. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp (2021). [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
