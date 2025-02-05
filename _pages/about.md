@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-   I am a postdoctoral fellow at CREST, ENSAE, in the group FairPlay, under the supervision of Vianney Perchet. This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
+   I am assistant professor at École polytechhnique. Prior to that, I was a postdoc at ENSAE, in the group FairPlay, under the supervision of Vianney Perchet.
 
    I am mainly interested in sequential learning and sequential decision-making problems, and in fair machine learning. 
 
