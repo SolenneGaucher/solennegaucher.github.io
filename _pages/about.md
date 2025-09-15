@@ -20,7 +20,7 @@ I am thrilled to announce that I have been named one of the 2024 French Young Ta
 # Papers, preprints, and software
 **Non-Stationary Lipschitz Bandits** (2025) N. Nguyen, S. Gaucher, and C. Vernade. [Preprint](https://arxiv.org/pdf/2505.18871)
 
-**Supervised Contamination Detection, with Flow Cytometry Application** S. Gaucher, G. Blanchard, and F.Chazal. Biometrika 2025. [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
+**Supervised Contamination Detection, with Flow Cytometry Application** S. Gaucher, G. Blanchard, and F.Chazal (2025). Biometrika. [Preprint](https://arxiv.org/pdf/2404.06093.pdf)
 
 **Demographic parity in regression and classification within the unawareness framework** (2024) V. Divol and S. Gaucher. [Preprint](https://arxiv.org/pdf/2409.02471)
 
